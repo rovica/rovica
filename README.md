@@ -1,7 +1,9 @@
 <!-- Obrigado pelo tutorial de como customizar o Git Rafaella Balleniri -->
-🌱 Estudando Front-end - HTML CSS and JavaScript  <img align="right" alt="sapinhogif" height="90" style="border-radius:50px;" src="https://giffiles.alphacoders.com/212/212520.gif">
+🌱 Estudando Front-end  <img align="right" alt="sapinhogif" height="80" style="border-radius:50px;" src="https://giffiles.alphacoders.com/212/212520.gif">
 
 🧚🏻‍♂️ Pronomes: Ele/Dele
+
+
 
 ##
 
