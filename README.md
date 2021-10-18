@@ -1,4 +1,5 @@
-🌱 Estudando Front-end - HTML CSS and JavaScript  <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://giffiles.alphacoders.com/212/212520.gif">
+<!-- Obrigado pelo tutorial de como customizar o Git Rafaella Balleniri -->
+🌱 Estudando Front-end - HTML CSS and JavaScript  <img align="right" alt="sapinhogif" height="90" style="border-radius:50px;" src="https://giffiles.alphacoders.com/212/212520.gif">
 
 🧚🏻‍♂️ Pronomes: Ele/Dele
 
@@ -29,3 +30,11 @@
   <a href="https://www.linkedin.com/in/romulovcastilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/romulovillar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
+ 
+ ##
+<!-- <img align="right" alt="rovicasapos" height="400" style="border-radius:50px;" src="https://c.tenor.com/MLa1SvUMKt8AAAAC/froge.gif"> -->
+
+
+
+
+
